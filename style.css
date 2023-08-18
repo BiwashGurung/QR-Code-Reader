@@ -12,6 +12,7 @@ body{
   min-height: 100vh;
   padding: 0 10px;
   background: linear-gradient(to top right, #474743 56%, #000000 100%);
+
 }.wrapper{
   height: 270px;
   width: 420px;
@@ -21,3 +22,4 @@ body{
   transition: height 0.2s ease;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
+
