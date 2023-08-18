@@ -52,3 +52,6 @@ form img{
 .wrapper.active form img{
   display: block;
 }
+.wrapper.active form .content{
+  display: none;
+}
