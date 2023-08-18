@@ -60,3 +60,8 @@ form .content i{
   color: #0B85FF;
   font-size: 50px;
 }
+form .content p{
+  color: #0B85FF;
+  margin-top: 10px;
+  font-size: 20px;
+}
