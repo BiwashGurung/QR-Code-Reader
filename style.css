@@ -81,7 +81,7 @@ form .content p{
   height: 128px;
   outline: none;
   resize: none;
-  color: #fff;
+  color: #111;
   font-size: 18px;
   background: none;
   border-radius: 5px;
@@ -116,7 +116,7 @@ textarea:hover::-webkit-scrollbar-thumb{
   font-weight: 500;
   font-size: 16px;
   cursor: pointer;
-  color: #0B85FF;
+  color: #111;
   border-radius: 5px;
   background: #fff;
   transition: transform 0.3s ease;
