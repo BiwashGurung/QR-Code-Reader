@@ -49,3 +49,6 @@ form img{
   display: none;
   max-width: 148px;
 }
+.wrapper.active form img{
+  display: block;
+}
