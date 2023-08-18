@@ -65,3 +65,9 @@ form .content p{
   margin-top: 10px;
   font-size: 20px;
 }
+
+.wrapper .details{
+  opacity: 0;
+  margin-top: 25px;
+  pointer-events: none;
+}
