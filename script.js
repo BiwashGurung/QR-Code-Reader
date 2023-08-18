@@ -20,3 +20,11 @@ function fetchRequest(file, formData) {
         infoText.innerText = "Couldn't scan QR Code";
     });
 }
+
+fileInp.addEventListener("change", async e => {
+    let file = e.target.files[0];
+    if(!file) return;
+    let formData = new FormData();
+    formData.append('file', file);
+    fetchRequest(file, formData);
+});
